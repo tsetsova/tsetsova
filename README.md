@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Ina, a fullstack software developer with over 7 years of experience. 
+- 🌱 I work at OysterHR, helping make it easier for folks to hire in over 180+ countries
+
+
 <!--
 **tsetsova/tsetsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
