@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 I'm Ina, a fullstack software developer with over 7 years of experience. 
 
