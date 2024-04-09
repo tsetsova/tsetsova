@@ -2,6 +2,9 @@
 
 I'm Ina, a fullstack software developer with over 7 years of experience. 
 - 🌱 I work at OysterHR, helping make it easier for folks to hire in over 180+ countries
+- 📫 How to reach me: Feel free to send me a message on [Linkedin](https://www.linkedin.com/feed/)
+- 🔭 Fun Fact: I love gaming: board games and video games alike!
+
 
 
 <!--
